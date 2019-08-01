@@ -59,7 +59,7 @@ Visit `http://localhost:4000/`
 |Method                |Url                          |Params                         |Description                         
 |----------------|-------------------------------|-----------------------------|-----------------------------|
 |POST|`/api/users/login`            |body: { username: String }            | Login user
-|GET          |`/api/admin/loans/pending`            |NA            | Get pending loans
+|GET          |`/api/admin/l/esp/data`            |NA            | Get all data
 
 
 ## Based on
